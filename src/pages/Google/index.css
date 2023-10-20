@@ -1,0 +1,18 @@
+.input-text {
+  background-color: transparent;
+  color: #fafafa;
+  border: 1px solid #fafafa;
+  border-radius: 50px;
+  min-width: 600px;
+  min-height: 40px;
+  padding: 0 20px;
+}
+
+.google-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.google-logo {
+  object-fit: none;
+}
